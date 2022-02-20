@@ -1,2 +1,2 @@
 # ComputingScience
-This is a repository for 3301.
+This is a repository for OBU Computing 3301.
